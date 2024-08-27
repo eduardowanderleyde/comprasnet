@@ -58,7 +58,7 @@ class SearchAuctions:
             "chkTodos": "-1",
             "chk_concorTodos": "",
             "chk_pregaoTodos": "",
-            "txtlstUf": "",
+            "txtlstUf": "PE",
             "txtlstMunicipio": "",
             "txtlstUasg": "",
             "txtlstGrpMaterial": "",

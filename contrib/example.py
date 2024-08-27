@@ -26,7 +26,7 @@ logging.config.dictConfig({
     },
 })
 
-sa = SearchAuctions(day=date(day=11, month=5, year=2018))
+sa = SearchAuctions(day=date(day=11, month=8, year=2024))
 sa.search()
 
 print(sa.total_pages)
